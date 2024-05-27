@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule, NgFor } from '@angular/common';
-import { DataService } from '../../servives/data.service';
+import { DataService } from '@app/servives/data.service';
+
 
 @Component({
   selector: 'app-parent',

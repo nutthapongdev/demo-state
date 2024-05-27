@@ -1,6 +1,6 @@
 import { CommonModule, NgFor } from "@angular/common";
 import { Component} from "@angular/core";
-import { DataService } from "../../servives/data.service";
+import { DataService } from "@app/servives/data.service";
 
 
 @Component({
